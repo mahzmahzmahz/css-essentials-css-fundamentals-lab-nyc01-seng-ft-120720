@@ -20,9 +20,10 @@ nav a {
 }
 
 img {
-  display: block;
+  /*display: block;
   margin-right: auto;
-  margin-left: auto;
+  margin-left: auto;*/
+  text-align: center;
 }
 
 figcaption {
@@ -30,8 +31,6 @@ figcaption {
 }
 
 #featured-property p{
-  /*margin-right: auto:
-  margin-left: auto;*/
   width: 800px;
   text-align: center;
   
